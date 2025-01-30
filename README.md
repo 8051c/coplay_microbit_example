@@ -22,3 +22,5 @@ MakeCode에서 이 저장소를 편집합니다.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+[https://youtu.be/8zMFCW4aS_k](https://youtu.be/8zMFCW4aS_k)
